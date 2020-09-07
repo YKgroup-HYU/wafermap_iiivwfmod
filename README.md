@@ -9,3 +9,7 @@ Here is the requirement for the code.
   - Wafer: D08
   - TestSite: IIIV_LMZC_IIIV230_JT100
 - Plot X: Row, Y: Column, Z: 'VpiL@0V [V.cm]' using [wafer map repo](https://github.com/dougthor42/wafer_map)
+- Additional info.
+  - die_size_X = 25870
+  - die_size_Y = 13820
+  - dia = 300000
